@@ -4,6 +4,7 @@
 - 🌱 I'm currently studying Computer Engineering at UNIVESP.
 - ✏️ I enjoy learning about software engineering and web development.
 - 👯 I'm looking more and more to learn about working collaboratively and to use these tools more and more. I hope I can contribute a lot.
+- 🙋‍♂️ I'm open to receiving job offers, I'm looking for that.
 - 💬 Get in touch, I'll be happy to chat!
 - 😄 Pronouns: He/His
 - 🥋 Sports? Jiu Jitsu
