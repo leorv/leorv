@@ -1,4 +1,4 @@
-### Hello! 👋 I'm Leonardo Ruoso Vendramini!
+# Hello! 👋 I'm Leonardo Ruoso Vendramini!
 
 - 🔭 I'm currently working as a civil engineer at the Fernão city hall.
 - 🌱 I'm currently studying Computer Engineering at UNIVESP.
