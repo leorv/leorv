@@ -9,6 +9,7 @@
 - 😄 Pronouns: He/His
 - 🥋 Sports? Jiu Jitsu
 - ⚡ I'm also learning Shell Programming.
+- 📢 Contact: leonardo_vendramini@hotmail.com
 
 <div>
   <a href="https://github.com/leorv">
@@ -72,17 +73,25 @@
   
   ##
   
-  ### DevOps and Others languages
+  ### Cloud, Hosting and Others programming languages
   
   <div>
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
     <img src="https://img.shields.io/badge/IBM_Cloud-563D7C?style=for-the-badge&logo=ibm&logoColor=white">  
     <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
   </div>
   
-  
   ##
+  
+  ### Game Development
+  <div>
+    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+    <img src="https://img.shields.io/badge/Defold-DD0031?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+  </div>
+  
   
   ### Social
   
