@@ -1,20 +1,13 @@
-# Hello! 👋 I'm Leonardo Ruoso Vendramini!
-
-- 🔭 I'm currently working as a civil engineer at the Fernão city hall.
-- 🌱 I'm currently studying Computer Engineering at UNIVESP.
-- ✏️ I enjoy learning about software engineering and web development.
-- 👯 I'm looking more and more to learn about working collaboratively and to use these tools more and more. I hope I can contribute a lot.
-- 💬 Get in touch, I'll be happy to chat!
-- 😄 Pronouns: He/His
-- 🥋 Sports? Jiu Jitsu
-- ⚡ I'm also learning Shell Programming.
 - 📢 Contact: leonardo_vendramini@hotmail.com
 
+<!-- 
 <div>
   <a href="https://github.com/leorv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leorv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorv&layout=compact&langs_count=7&theme=dark"/>
 </div>
+-->
+
   
   ## My skills
   <div>
