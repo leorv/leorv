@@ -1,3 +1,5 @@
+Experience with teamwork and leadership. Calm, good humor and discipline are words I take with me.
+
 - 📢 Contact: leonardo_vendramini@hotmail.com
 
 <!-- 
