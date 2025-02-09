@@ -1,3 +1,5 @@
+I am a computer engineer, passionate about creating innovative solutions that help people.
+
 - 📢 Contact: leonardo_vendramini@hotmail.com
 
   ## My skills
